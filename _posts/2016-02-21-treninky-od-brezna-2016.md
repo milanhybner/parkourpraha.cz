@@ -1,0 +1,15 @@
+---
+layout: page
+title:  Tréninky od března 2016
+date:   2016-02-21
+---
+
+V březnu budou úterní tréninky na Podbabě. Vyzkoušíme, jak zvládneme precizy na místních zídkách. Pondělní tréninky na Vltavské a čtvrteční na Letné stále pokračují.
+
+<a href="/treninky/#prihlaska" class="button special fit big">Přihlas se zde</a>
+
+![Podbaba](https://lh3.googleusercontent.com/X43NMG_n8QkB3vnq4MiQYKucUeKlXu23NbSRi41FktRkJfthXFRvWxuYiCMRO4NJQ4ABU51L9K94qeacOzuJe4tRbjW8DB2lDmQis62Wp7u2SxcZAXl4Exbb-hihL6tjGl7tpapibhTLJm-Ov7Hb4-e8BWNNQbvuJFicMhhUHhAJMz7Buagd7EH7R5803nB-ImAr4YorJEHA36_bNQJSWZyc0Pb5qyhD2RXN_DDw6Oa2ghr7_4h_3IRF5uzSLqDYBJkL3RjSXAvQB478zvVX-4_2J2EIvk0_OtZ1FUgWoOIWPEeFAORNCXo_Dk3If8HyUtJYLrpsrI5YodNValG6cPDoTZnhSwrnQn0vtNUTyNrbjT92IGD7YYA-vVP1ZQrAhdkQcxp2ui5wUg3RlebsAwKJ1qUQiaEnqYvbseJ7wCMggLhm475ZrcEYeI7xzCZR-SwZFajxcxZ0jMDnb1GE00oVwIiftLWs86zql60CR-tQch0pCzUAc9VjL8ptgFUL2HSD4xtatLo8nhBpMLyBTFKmjOoCTYFexDN33Oe-iA2q8CjhaLKZ0prcifi_1rCYhlF7){: .image .fit}
+
+<meta name="description" content="V březnu budou úterní tréninky na Podbabě. Vyzkoušíme, jak zvládneme precizy na místních zídách. Pondělní tréninky na Vltavské a čtvrteční na Letné stále pokračují.">
+
+<link rel="image_src" href="https://lh3.googleusercontent.com/X43NMG_n8QkB3vnq4MiQYKucUeKlXu23NbSRi41FktRkJfthXFRvWxuYiCMRO4NJQ4ABU51L9K94qeacOzuJe4tRbjW8DB2lDmQis62Wp7u2SxcZAXl4Exbb-hihL6tjGl7tpapibhTLJm-Ov7Hb4-e8BWNNQbvuJFicMhhUHhAJMz7Buagd7EH7R5803nB-ImAr4YorJEHA36_bNQJSWZyc0Pb5qyhD2RXN_DDw6Oa2ghr7_4h_3IRF5uzSLqDYBJkL3RjSXAvQB478zvVX-4_2J2EIvk0_OtZ1FUgWoOIWPEeFAORNCXo_Dk3If8HyUtJYLrpsrI5YodNValG6cPDoTZnhSwrnQn0vtNUTyNrbjT92IGD7YYA-vVP1ZQrAhdkQcxp2ui5wUg3RlebsAwKJ1qUQiaEnqYvbseJ7wCMggLhm475ZrcEYeI7xzCZR-SwZFajxcxZ0jMDnb1GE00oVwIiftLWs86zql60CR-tQch0pCzUAc9VjL8ptgFUL2HSD4xtatLo8nhBpMLyBTFKmjOoCTYFexDN33Oe-iA2q8CjhaLKZ0prcifi_1rCYhlF7" />

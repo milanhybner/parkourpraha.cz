@@ -1,0 +1,29 @@
+# Site settings
+title: Parkour Praha
+email: parkourprague@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Parkourové tréninky v městském prostředí pro dospělé.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://parkourpraha.cz" # the base hostname & protocol for your site
+twitter_username: parkourpraha
+
+collections:
+  spot:
+    output: true
+  cast-lekce:
+    output: true
+  lektor:
+    output: true
+
+defaults:
+   - scope:
+       path: ""
+       type: spot cast-lekce lektor
+     values:
+       layout: page
+
+
+# Build settings
+markdown: kramdown
+
+exclude: [poznamky]

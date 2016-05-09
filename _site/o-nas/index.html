@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>O nás</title>
+  <meta name="description" content="Parkourové tréninky v městském prostředí pro dospělé.
+">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="http://parkourpraha.cz/o-nas/">
+  <link rel="alternate" type="application/rss+xml" title="Parkour Praha" href="http://parkourpraha.cz/feed.xml" />
+  <link rel="icon" type="image/png" href="http://www.parkourpraha.cz/favicon.png">
+  <script language="javascript" type="text/javascript">
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+  </script>
+</head>
+
+
+  <body>
+
+    <header id="header">
+     <h1 id="logo"><a href="/index.html">Parkour Praha</a></h1>
+     <nav id="nav">
+         <ul>
+          <!-- <li><a href="/o-nas/">O nás</a></li><li><a href="/spoty/">Spoty</a></li><li><a href="/treninky/">Tréninky</a></li> -->
+          <li><a href="/o-nas/">O nás</a></li>
+          <li class="button special"><a href="/treninky/">Tréninky</a></li>
+          </ul>
+     </nav>
+</header>
+
+
+
+        <div id="main" class="wrapper style1">
+<div class="container">
+
+
+<header class="major">
+  <h2>O nás</h2>
+  <p>
+</header>
+
+
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<h3 id="kdo-jsme">Kdo jsme</h3>
+
+<p>Parkour Praha je neregistrovaná skupina příznivců sportů označovaných jako parkour, freerunning nebo art du déplacement. Naším cílem je prostřednictvím těchto disciplín šířit dobro.</p>
+
+<h3 id="novinky">Novinky</h3>
+
+<p><a href="/2016/04/07/letna.html"><i>2016-04-07</i> Trénink na Letné</a><br /><a href="/2016/04/04/cerny-most.html"><i>2016-04-04</i> Trénink na Černém Mostě</a><br /><a href="/2016/03/10/treninky-do-prazdnin.html"><i>2016-03-10</i> Tréninky do prázdnin</a><br /></p>
+
+<h3 id="kontakt">Kontakt</h3>
+
+<form id="f">
+<div class="row uniform 50%">
+  <div class="6u 12u$(medium)">
+    <input type="text" id="name" placeholder="Jméno a příjmení" />&lt;/input&gt;
+  </div>
+  <div class="6u 12u$(medium)">
+    <input type="text" id="contact" placeholder="E-mail nebo telefon" />&lt;/input&gt;
+  </div>
+  <div class="12u 12u$(medium)">
+     <textarea id="message" placeholder="Zpráva" rows="2"></textarea>
+  </div>
+  <div class="6u 12u$(medium)">
+    <input type="submit" class="button special" id="btn" value="Odeslat" />
+  </div>
+</div>
+</form>
+
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('form[id=f]').submit(function(e) {
+                e.preventDefault();
+                var text = $('#name').val() + ' – ' + $('#contact').val() + ' – ' + $('#message').val();
+                var postData = '{"text": "' + text + '", "channel": "#kontakt"}';
+                var btn = $('#btn');
+                $.ajax({
+                    type: 'POST',
+                    cache: false,
+                    url: 'https://hooks.slack.com/services/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',
+                    data: postData,
+                    success: function() {window.location.href = "#";}
+                });
+                btn.val("Odesláno ✓");
+            });
+        });
+</script>
+
+<p><br /></p>
+
+<p><a id="filosofie"></a></p>
+
+<p> </p>
+
+<h3 id="nae-filosofie-a-pojet-parkouru">Naše filosofie a pojetí parkouru</h3>
+
+<p>Parkour (v našem pojetí) je soubor metod tréninku, který pomáhá rozvíjet schopnost přemístit se bezpečně a rychle z jednoho místa na druhé. Vychází z myšlenky, že člověk je sobě, svým blízkým i společnosti užitečnější, pokud je – chápáno v nejširším smyslu slova – silný. Pokud ve Vašem bytu začne hořet, nebudete se bát opustit ho přes balkón. Budete schopni zvednou svoje dítě do náručí, aniž by Vám luplo v zádech. Pokud spadnete za jízdy z kola, přistanete pohodlně v parakotoulu.</p>
+
+<ul>
+  <li>Užitečnost pohybů má přednost před jejich pohledností</li>
+  <li>Kvalita je důležitější než kvantita</li>
+  <li>„Přizpůsobte si užitečné, odmítněte zbytečné a přidejte vaše vlastní.“ ~ <em>Bruce Lee</em></li>
+</ul>
+
+<p>Náš přístup k tréninku reflektuje tuto původní filosofii parkouru tak, jak ji vytyčili jeho zakladatelé. K tomu navíc zahrnuje zábavné prvky, které lektoři přebírají z tréninku dětí. Smyslem je tedy, kromě uchování zdraví a rozvoje kondice, poskytnutí možnosti aktivně a zábavně strávit volný čas. Sdílení zážitků je na trénincích povoleno a možná zde získáte i nové přátele, které Vás budou podporovat na této Vaší životní cestě.</p>
+
+<p><a href="/treninky/#pravidelne" class="button">Více o trénincích</a></p>
+
+<hr />
+
+<h3 id="prvn-prohlen">Právní prohlášení</h3>
+
+<h4 id="informace-na-webu-parkourprahacz">Informace na webu parkourpraha.cz</h4>
+
+<p>Tento web provozujeme a informace uvádíme v dobré víře v jejich pravdivost a aktuálnost, v žádném případě však nemůžeme vyloučit chyby nebo nepřesnosti, které se na stránkách parkourpraha.cz mohou objevit. Veškeré používání informací z webu parkourpraha.cz jsou pouze a jen na vlastní zodpovědnost a nebezpečí toho, kdo je používá.</p>
+
+<p><a id="podminky"></a></p>
+
+<p> </p>
+
+<h4 id="podmnky-asti-na-kurzu-parkour-praha">Podmínky účasti na kurzu Parkour Praha</h4>
+
+<p>Přihlášením na lekci, tréninkovou jednotku nebo kurz pořádaný lektory Parkour Praha (dále jen lekce) potvrzujete, že jste se důkladně seznámili s následujícími podmínkami a informacemi a že je berete na vědomí a souhlasíte s nimi. Pokud se lekce účastníte bez přihlášení, je samotná účast považována za přihlášení a plynou z ní stejné povinnosti.</p>
+
+<h4 id="mon-rizika-provozovn-parkouru-a-kondinch-cvien">Možná rizika provozování parkouru a kondičních cvičení</h4>
+
+<p>Vědomě a svobodně souhlasím s přijetím všech známých i neznámých rizik účasti na lekci. Prohlašuji, že jsem měl možnost se s těmito riziky plně seznámit. Vylučuji odpovědnost lektorů a organizačních pracovníků Parkour Praha za jakékoli újmy, na zdraví či majetku, způsobené mé osobě. Tato rizika zahrnují, ale nejsou omezena na riziko: smrti, poranění hlavy a páteře, fraktur, distorze kotníku, hlezna, zápěstí, lokte a ramene, odřenin, puchýřů, hematomů, chronických onemocnění pohybového aparátu, infarktu myokardu a žloutenky.</p>
+
+<h4 id="souhlas-se-zpracovnm-osobnch-daj-a-s-poizovnm-audiovizulnch-zznam">Souhlas se zpracováním osobních údajů a s pořizováním audiovizuálních záznamů</h4>
+
+<p>Přihlášením dávám správci Parkour Praha souhlas se zpracováním uvedených osobních údajů v souladu s § 5 zákona č. 101/2000 Sb. o ochraně osobních údajů a změně některých zákonů, ve znění pozdějších předpisů. Účelem je evidence účastníků nezbytná pro zajištění akce. Sumarizované údaje mohou být použity správcem pro statistické účely pro vnitřní potřebu správce.</p>
+
+<p>Uděluji neomezený souhlas s použitím, reprodukováním, prodáváním a šířením jakýchokoli fotografií, obrázků, videozáznamů, nahrávek, filmů či zobrazení mé osoby jakéhokoli druhu pořízených během lekce. Jsem si vědom toho, že mi za toto nenáleží žádná odměna.</p>
+
+<h4 id="informovan-souhlas">Informovaný souhlas</h4>
+
+<p>Přečetl jsem si a plně porozuměl výše uvedeným souhlasům a vyloučením odpovědnosti a tyto svobodně, vědomě a bez ponoukání stvrzuji <a href="/treninky/#prihlaska">svou přihláškou</a>.</p>
+
+
+
+</div>
+</div>
+
+
+    <footer id="footer">
+    <ul class="icons">
+        <li><a href="http://facebook.com/parkourpraha" class="icon alt fa-facebook"><span class="label">Facebook</span></a>
+        </li>
+        <li><a href="https://www.youtube.com/channel/UCbQbECPVTADxmt9jS4h6WdA" class="icon alt fa-youtube"><span class="label">YouTube</span></a>
+        </li>
+        <li><a href="http://instagram.com/parkourpraha" class="icon alt fa-instagram"><span class="label">Instagram</span></a>
+        </li>
+        <li><a href="http://twitter.com/parkourpraha" class="icon alt fa-twitter"><span class="label">Twitter</span></a>
+        </li>
+        <li><a href="http://pinterest.com/parkourprahacz" class="icon alt fa-pinterest"><span class="label">Pinterest</span></a>
+        </li>
+        <li><a href="https://plus.google.com/u/0/108538575321844912544/posts" class="icon alt fa-google-plus"><span class="label">Google+</span></a>
+        </li>
+    </ul>
+    <ul class="copyright">
+        <li>Uncopyrighted</li>
+        <li>Design: <a href="http://html5up.net">HTML5 UP</a>
+        </li>
+    </ul>
+</footer>
+
+
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/jquery.scrolly.min.js"></script>
+<script src="/assets/js/jquery.dropotron.min.js"></script>
+<script src="/assets/js/jquery.scrollex.min.js"></script>
+<script src="/assets/js/skel.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="/assets/js/main.js"></script>
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-66904128-1', 'auto');
+    ga('send', 'pageview');
+</script>
+
+  </body>
+
+</html>
