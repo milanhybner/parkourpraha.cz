@@ -29,9 +29,7 @@ Hlavní spot je mezi ulicemi Turkmenská a Tádžická. Ze zastávky tramvaje ne
 | Balance        | ★★★☆☆     |
 | Laché          | ★★☆☆☆     |
 
+[![Přejít na fotogalerii](http://www.rajce.net/f1040657947/700px)](http://www.rajce.net/f1040657947){:.image .fit}
 
-## [Galerie →](/galerie/koh-i-noor)
-
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/66WiKpjUBo33aX7e0eXC7Vm6Nn6nzyp5clsjguXftSo1-vFNS9DZPGZd5zIw4f1FrdIJn_AmhYjh1B3B_UXSu5LhrA_5pz48JdAIjJU8aQTRrh8thAlSTRVkro-1emNl2EkZzPlKAlXcOZsvVRoQRSUzhwCkdZ8ZMgGFH1kMaXn5cQ-7o79fjCkIzU2YCzDuJaPCIKlE429VEuVhTd7L77wiWrOJvlbwNturXGHNz6Dj9pCRAR6HbKUU0EqR9K45NgSJNhLF59WYX4zYGXe9o9XaKiWwjt6cW0Y1C2hPTOTg94burgsGk9JGRhG7HKVi2Eh3dnS5ipmOfFLsyCiz4ZKckKYYaE1jdAUXLpVe5O6a3CD14TdRLDTzxO1d8_mGRD-bAkcbO7xc3gK4uUrm8OJ_0zpF3DhD0VyL9Ztkan101R-H7zqenodOsWlz8dWsjDTiyeCuZ4CWqQcQb53jS9Wxi_1lerOq-OVQnBYI4oPPqORUBfXuKmZXdMvhJHj3myMhuS5HphoSbcbnmevjZWD51d3Jk-guWyHZ3gXucqmNgVGKRoSuGs9IJep8zXuHlPG_=w950-h713-no){: .image .fit}](/galerie/koh-i-noor)
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/66WiKpjUBo33aX7e0eXC7Vm6Nn6nzyp5clsjguXftSo1-vFNS9DZPGZd5zIw4f1FrdIJn_AmhYjh1B3B_UXSu5LhrA_5pz48JdAIjJU8aQTRrh8thAlSTRVkro-1emNl2EkZzPlKAlXcOZsvVRoQRSUzhwCkdZ8ZMgGFH1kMaXn5cQ-7o79fjCkIzU2YCzDuJaPCIKlE429VEuVhTd7L77wiWrOJvlbwNturXGHNz6Dj9pCRAR6HbKUU0EqR9K45NgSJNhLF59WYX4zYGXe9o9XaKiWwjt6cW0Y1C2hPTOTg94burgsGk9JGRhG7HKVi2Eh3dnS5ipmOfFLsyCiz4ZKckKYYaE1jdAUXLpVe5O6a3CD14TdRLDTzxO1d8_mGRD-bAkcbO7xc3gK4uUrm8OJ_0zpF3DhD0VyL9Ztkan101R-H7zqenodOsWlz8dWsjDTiyeCuZ4CWqQcQb53jS9Wxi_1lerOq-OVQnBYI4oPPqORUBfXuKmZXdMvhJHj3myMhuS5HphoSbcbnmevjZWD51d3Jk-guWyHZ3gXucqmNgVGKRoSuGs9IJep8zXuHlPG_=w950-h713-no" />

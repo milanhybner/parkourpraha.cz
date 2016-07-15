@@ -29,9 +29,8 @@ Ze stanice metra Vyšehrad stačí přejít Nuselský most. Nebo z druhé strany
 | Balance        | ★★☆☆☆     |
 | Laché          | ☆☆☆☆☆     |
 
-## [Galerie →](/galerie/muzeum-policie)
+[![](http://www.rajce.net/f1040658031/700px)](http://www.rajce.net/f1040658031){:.image .fit}
 
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/YyMq4OtRfOdzhR_c83KOK1q5oRPYNUZAL84M1rcSW03AoFibSTvYyZQZyBuIjXZ3h_5MIXZLn5H10I4KZRrTgLEKhd9_I_SXNc2ywEFV2wD5b_vXlFLa57tItIRqYRTz_JtNPkyjArvgT-J-UgPcbNUmpm8BtJOg4s9JoIqWQYmXHUNH7f745zfb1f6DTYIzYooucPjKIqrX9kjN8ITdwuEoa0qKdLPqGhMF0Ere9yn08b440XLXSfO2Nb9oWSxyk1F6-o6omnPC0PxfdfOiBJCR4svMCJ8869gG74QBhpBKCPNxyc8nLmbrrPBwMxC9IFuRpwPiFOlRh4EBsvOUP94rQA-C8lXjrTnUuuFWyt4QJKxYug6yGXWgjAyfhuISKKIfOAHnIyowx-dXrsrN1zUVVVy0r0Vi-HHnjo9NHyUV0HDAwhtDe0AHO8fwi2kA7I5LoZLxgIN3t8dcviUNlUiM6V-lKwDGUuuQ8z8ogTyzovPeU23-LYno7lqKADbRSM75grvuEW-q0zME1hKbxmpt8usRfkapcteCm3g1m9ZMGC9-RzL0laMlP3YMT5yiwwel=w950-h713-no){: .image .fit}](/galerie/muzeum-policie)
 
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/YyMq4OtRfOdzhR_c83KOK1q5oRPYNUZAL84M1rcSW03AoFibSTvYyZQZyBuIjXZ3h_5MIXZLn5H10I4KZRrTgLEKhd9_I_SXNc2ywEFV2wD5b_vXlFLa57tItIRqYRTz_JtNPkyjArvgT-J-UgPcbNUmpm8BtJOg4s9JoIqWQYmXHUNH7f745zfb1f6DTYIzYooucPjKIqrX9kjN8ITdwuEoa0qKdLPqGhMF0Ere9yn08b440XLXSfO2Nb9oWSxyk1F6-o6omnPC0PxfdfOiBJCR4svMCJ8869gG74QBhpBKCPNxyc8nLmbrrPBwMxC9IFuRpwPiFOlRh4EBsvOUP94rQA-C8lXjrTnUuuFWyt4QJKxYug6yGXWgjAyfhuISKKIfOAHnIyowx-dXrsrN1zUVVVy0r0Vi-HHnjo9NHyUV0HDAwhtDe0AHO8fwi2kA7I5LoZLxgIN3t8dcviUNlUiM6V-lKwDGUuuQ8z8ogTyzovPeU23-LYno7lqKADbRSM75grvuEW-q0zME1hKbxmpt8usRfkapcteCm3g1m9ZMGC9-RzL0laMlP3YMT5yiwwel=w950-h713-no" />

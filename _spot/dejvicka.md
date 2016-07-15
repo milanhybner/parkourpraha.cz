@@ -29,8 +29,6 @@ Do stanice metra Dejvická (nebo tramvaje Vítezné náměstí) a poté doprost�
 | Balance        | ★★★☆☆     |
 | Laché          | ★☆☆☆☆     |
 
-## [Galerie →](/galerie/dejvicka)
-
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/eEOTT3KQAC8zymheZm3ishkDb7qkrxheKQzZlTHAoaaW0dZ-39O9l-WGEwESpM9DPLvZAzcvvrAeS9ru8syXxh1Bypjb6lkH2LcX00-n7AoHFxEqjW_4SghzwHcBKxHHIS2VFj1uWWQ7ExwsAUn5f11lCR5trAMkyql9gX6YPUao05r5jCDHaffYJBJ7NGhwQhKTYYD3qYYVYRe9Di1rBtFDmlIYEYOsypcd2K0GJFPOAGsbNeuQG1nIzvx3Q0_Sxfw82lvNeSk6VyKRU7n5SOi8OSy4-baaWd4NdhJdHm-WMA005WWRKLpn7CLxlx9I4pL89GqrHrYtjlR8fKfKZ5OFUw4WAc9YWZ7Ygs3LiPHsTjDnFqu9uqMgOc272aVLz42BkEPTWf40RxxmT0TpAp-NecYVKrhVaiEy7jkKmpDCC80MfsPEkfmvGH0rrsbu2oizb6YMLzCXFCIaoF_Iibq8PMNUxXgI8l_fpyybqmSpWgF04iHQJKKybHQAR0DArgvrrkF0i3rOHrfIvIYaX47wovZjogMQiX7JJqQH0G6pr_Uip-mpnuS3l-fDhbGYQlsj=w950-h713-no){: .image .fit}](/galerie/dejvicka)
+[![Přejít na fotogalerii](http://www.rajce.net/f1040657013/700px)](http://www.rajce.net/f1040657013){: .image .fit}
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/eEOTT3KQAC8zymheZm3ishkDb7qkrxheKQzZlTHAoaaW0dZ-39O9l-WGEwESpM9DPLvZAzcvvrAeS9ru8syXxh1Bypjb6lkH2LcX00-n7AoHFxEqjW_4SghzwHcBKxHHIS2VFj1uWWQ7ExwsAUn5f11lCR5trAMkyql9gX6YPUao05r5jCDHaffYJBJ7NGhwQhKTYYD3qYYVYRe9Di1rBtFDmlIYEYOsypcd2K0GJFPOAGsbNeuQG1nIzvx3Q0_Sxfw82lvNeSk6VyKRU7n5SOi8OSy4-baaWd4NdhJdHm-WMA005WWRKLpn7CLxlx9I4pL89GqrHrYtjlR8fKfKZ5OFUw4WAc9YWZ7Ygs3LiPHsTjDnFqu9uqMgOc272aVLz42BkEPTWf40RxxmT0TpAp-NecYVKrhVaiEy7jkKmpDCC80MfsPEkfmvGH0rrsbu2oizb6YMLzCXFCIaoF_Iibq8PMNUxXgI8l_fpyybqmSpWgF04iHQJKKybHQAR0DArgvrrkF0i3rOHrfIvIYaX47wovZjogMQiX7JJqQH0G6pr_Uip-mpnuS3l-fDhbGYQlsj=w950-h713-no" />

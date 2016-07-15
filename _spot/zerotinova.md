@@ -34,8 +34,6 @@ Poté pokračujte Žerotínovou dolu z kopce až na spot.
 | Balance        | ★★☆☆☆     |
 | Laché          | ★☆☆☆☆     |
 
-## [Galerie →](/galerie/zerotinova)
-
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/uslljEFH19EGDDSEbrKF9cEuLV7uIJ2cCmwSWCxdxDvJpMz7rxTxlknt0j3re0Gw7fKuLASsjuDsYyni9JF47fCNzO5PSgVgpmqBRBne9G9jV0xIivmWKmWYfB2AmVeGqn1thJtlKt9U0EjbtHTa1XiDgOQXj_yjE6u6DTXOqo6p14fvikznh0D5RXAQwtfopqRLKCH7HoPj4gBeQwoXBmdpDRZMuGs1zr9go0w653mcWypUIlg-eA6Ad5uu-p1GGCUOrxBmpzigo2UvGTOvcT0BL83jGqyrloaSn4UOyvw1lNeRqWiFQQl62GWT0dkokcZvVdONW1nMqG_bp3zfM4MdeGZM2kX6Cn00ICLdMFDsaGv7iUGnm84vqldQdRKvg9JBrkIk0OSN8AHpHZ3RAmAyQbbFY-M38WZEgw2MIMkws20jeEEP2DOXf9cYz9FInmaol7owhalLZQRKhqT_kN1_-4oevfhV4MmY7C8preZHoLc8Xeca6bRGyvhqZFrOHpfX9_X2wSEMMZm2MCZG5_ikI2UL9frAyrmaXuYLjAxnl0nQJCy3S5FJQ8PqdRLxbC7p=w950-h713-no){: .image .fit}](/galerie/zerotinova)
+[![Přejít na fotogalerii](http://www.rajce.net/f1040658335/700px)](http://www.rajce.net/f1040658335){:.image .fit}
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/uslljEFH19EGDDSEbrKF9cEuLV7uIJ2cCmwSWCxdxDvJpMz7rxTxlknt0j3re0Gw7fKuLASsjuDsYyni9JF47fCNzO5PSgVgpmqBRBne9G9jV0xIivmWKmWYfB2AmVeGqn1thJtlKt9U0EjbtHTa1XiDgOQXj_yjE6u6DTXOqo6p14fvikznh0D5RXAQwtfopqRLKCH7HoPj4gBeQwoXBmdpDRZMuGs1zr9go0w653mcWypUIlg-eA6Ad5uu-p1GGCUOrxBmpzigo2UvGTOvcT0BL83jGqyrloaSn4UOyvw1lNeRqWiFQQl62GWT0dkokcZvVdONW1nMqG_bp3zfM4MdeGZM2kX6Cn00ICLdMFDsaGv7iUGnm84vqldQdRKvg9JBrkIk0OSN8AHpHZ3RAmAyQbbFY-M38WZEgw2MIMkws20jeEEP2DOXf9cYz9FInmaol7owhalLZQRKhqT_kN1_-4oevfhV4MmY7C8preZHoLc8Xeca6bRGyvhqZFrOHpfX9_X2wSEMMZm2MCZG5_ikI2UL9frAyrmaXuYLjAxnl0nQJCy3S5FJQ8PqdRLxbC7p=w950-h713-no" />

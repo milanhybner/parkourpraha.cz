@@ -7,7 +7,7 @@ date:   2016-03-10
 <meta property="og:image:width" content="640"/>
 <meta property="og:image:height" content="960"/>
 
-_Aktualizováno 9. května 2016: **Úterní tréninky jsou zrušeny** a místa čtvrtečních tréninků se změnila._
+_Aktualizováno 23. května 2016: **Úterní tréninky jsou zrušeny** a místa čtvrtečních tréninků se změnila._
 
 Jaro je tu! Zídky a zábradlí osychají, bláto se z bot pomalu olupuje a hřejivé sluníčko vykukuje! A proto **je čas na parkour**.
 
@@ -20,10 +20,8 @@ Níže najdeš kdy a kde si můžeš přijít zatrénovat se skupinou milých, �
 
 ## Čtvrtky od 18:00
 
-* [Velká Ohrada](/velka-ohrada/) (19. května)
 * [Palmovka](/palmovka/) (26. května)
 * [Dejvická](/dejvicka/) (2. června)
-* místo tréninku ve čtvrtek 9. června bude stanoveno začátkem června
 
 <a href="/treninky/#prihlaska" class="button special fit big">Přihlas se zde</a>
 

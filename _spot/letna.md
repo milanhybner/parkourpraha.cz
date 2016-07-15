@@ -30,8 +30,6 @@ Metrem linky A do stanice Hradčanská nebo Metrem linky C do stanice Vltavská 
 | Balance        | ★★☆☆☆     |
 | Laché          | ★☆☆☆☆     |
 
-## [Galerie →](/galerie/letna)
-
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/q1Cu5fJGrvLQhvTm8HPRCSo2R3KMBi4YtqhtsCV_0fAq8SeJxvxcvI1N3PpLaxV_lHef6IcOXLHHxkuLL8d0O3AjAs7RiTbvPnS9cmZhm6q0rSy9pjIGmTDJHIVHZwXlepLJkyGZg-DNnhFHEIGFjiUZbrO9BSHOtr6o5emHAarEAbpLZkgQAvbWdbKrRY05dpJwGUl4IqQ40RXSdQDItpdsNIVGG3W2OBgBo9043wQvt7pelOnvjDkWkdEs_B5XJV9IIeMeM3tEIul27udB9kJn8jLuJOdBrxqHyyVOQJpnf0HLS2hoPzgXM872_ly1CGaGShKm69KKWG6LxJZy-4l13KG-WEy63nquL4ei-PDbb-08BxhOxIDs6R3TSBTiR7Dsm42GcwrJ1ONYucBFmblL0T3zgNNlpUdqq_uDEojynUlqkIM4E4G2g_2Xei0_tAxcwKdpKbCHx_EPRqrmqsaIg3lP2nopZV5mrHsEkhXPQG7DtTsQH0ch0aVlmMKEa3BrJ6EmWYvhusMHGfkxNbnSHD_txwmQaaoeH3bSQymLt-na2kQqhNal781QmH_g4bP-=w950-h713-no){: .image .fit}](/galerie/letna)
+[![Přejít na fotogalerii](http://www.rajce.net/f1040657947/700px)](http://www.rajce.net/f1040657947){:.image .fit}
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/q1Cu5fJGrvLQhvTm8HPRCSo2R3KMBi4YtqhtsCV_0fAq8SeJxvxcvI1N3PpLaxV_lHef6IcOXLHHxkuLL8d0O3AjAs7RiTbvPnS9cmZhm6q0rSy9pjIGmTDJHIVHZwXlepLJkyGZg-DNnhFHEIGFjiUZbrO9BSHOtr6o5emHAarEAbpLZkgQAvbWdbKrRY05dpJwGUl4IqQ40RXSdQDItpdsNIVGG3W2OBgBo9043wQvt7pelOnvjDkWkdEs_B5XJV9IIeMeM3tEIul27udB9kJn8jLuJOdBrxqHyyVOQJpnf0HLS2hoPzgXM872_ly1CGaGShKm69KKWG6LxJZy-4l13KG-WEy63nquL4ei-PDbb-08BxhOxIDs6R3TSBTiR7Dsm42GcwrJ1ONYucBFmblL0T3zgNNlpUdqq_uDEojynUlqkIM4E4G2g_2Xei0_tAxcwKdpKbCHx_EPRqrmqsaIg3lP2nopZV5mrHsEkhXPQG7DtTsQH0ch0aVlmMKEa3BrJ6EmWYvhusMHGfkxNbnSHD_txwmQaaoeH3bSQymLt-na2kQqhNal781QmH_g4bP-=w950-h713-no" />

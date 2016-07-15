@@ -29,9 +29,8 @@ Ze stanice metra či autobusu Černý Most vyražte směrem k sídlišti přes n
 | Balance        | ★★★☆☆     |
 | Laché          | ☆☆☆☆☆     |
 
-## [Galerie →](/galerie/cerny-most)
+[![](http://www.rajce.net/f1040656732/700px)](http://www.rajce.net/f1040656732/){:.image .fit}
 
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/Fa74RSWA6xIt5zf8K2A0VfmZDAYgD9Wg-9XDkG4Wqd_q086RgllB9GYd6XN0NfI8l1f5dNIpEy3t_eLXE90EEum08FMQEIpI8A8J3XOiWVHfkn7AXXEr5A4Qj_gE81X0XV17QyL4ZE-9r1ZRBPJCXGgNTHrV_OASKPs-BZFH1Tyjb6T62Z1KZ_Iz0gHJQRDQ3ktctwrhL0CmOE21GLO1FNqh8tyNj1s2DdsUzmbVp91hk9nLFMVeQazS2xWLuvoP-kGHdH9NKnL5B2ImqM-kLGtOUEJqoj7r2R4tsHGT1TzqW6I_RksrmTRdU9_7LQc2FCARUJN_hQUAFqBezBzGfgxP01v_v2zBKSf-F4FXUMTqHoQY5uR9nWSyAdkECOVTfda9Frd_qSe7KnTkZf3bxNu8jAeNXXw9OoLTobcjHqqZvnixiCxSLQNh0e96uhJCWnqq_PzV80eNRDYaDD__oFc3870E6djqhUZN0BFxOYYufRUYvCXApiVUb3yEqQSQV8uZLWMn8VwIq53Y84s-w_1-K2xsW5DgGh5BqPTsJUvXc-KUdyNYapltUuPGQ5fiRMVC=w950-h713-no){: .image .fit}](/galerie/cerny-most)
 
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/Fa74RSWA6xIt5zf8K2A0VfmZDAYgD9Wg-9XDkG4Wqd_q086RgllB9GYd6XN0NfI8l1f5dNIpEy3t_eLXE90EEum08FMQEIpI8A8J3XOiWVHfkn7AXXEr5A4Qj_gE81X0XV17QyL4ZE-9r1ZRBPJCXGgNTHrV_OASKPs-BZFH1Tyjb6T62Z1KZ_Iz0gHJQRDQ3ktctwrhL0CmOE21GLO1FNqh8tyNj1s2DdsUzmbVp91hk9nLFMVeQazS2xWLuvoP-kGHdH9NKnL5B2ImqM-kLGtOUEJqoj7r2R4tsHGT1TzqW6I_RksrmTRdU9_7LQc2FCARUJN_hQUAFqBezBzGfgxP01v_v2zBKSf-F4FXUMTqHoQY5uR9nWSyAdkECOVTfda9Frd_qSe7KnTkZf3bxNu8jAeNXXw9OoLTobcjHqqZvnixiCxSLQNh0e96uhJCWnqq_PzV80eNRDYaDD__oFc3870E6djqhUZN0BFxOYYufRUYvCXApiVUb3yEqQSQV8uZLWMn8VwIq53Y84s-w_1-K2xsW5DgGh5BqPTsJUvXc-KUdyNYapltUuPGQ5fiRMVC=w950-h713-no" />

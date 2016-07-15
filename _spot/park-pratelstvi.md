@@ -29,8 +29,7 @@ Metrem linky C do stanice Střížkov nebo Prosek a poté pěšky nebo jednu zas
 | Balance        | ★☆☆☆☆     |
 | Laché          | ☆☆☆☆☆     |
 
-## [Galerie →](/galerie/park-pratelstvi)
+[![Přejít na fotogalerii](http://www.rajce.net/f1040658169/700px)](http://www.rajce.net/f1040658169){:.image .fit}
 
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/D40oJug3yr85mrSoWJMYCKiYTHjzVfCnIDbmcy3BPsxU7uAipF8pQZpQHyK-f6SbJwfdQgpcB1mspN8Dd7Q4jAKoo-JDQO8FOhHybMfHPcPgzNoPsdYkDRXoLeQZoV0fc4LaS9AnTosZjSILWO5KCFWeWMshBl-hULcl14NpOOYnR1wq3n3OejkzJM0Kz7MaIFG1Ojnj_q7z8TYOYdt9n2XA7X2XRQkV4iw1odKKYc48t-gMVaE9y0-7zwss6CVWZMHSp7r6kx84uz1WE-VOwTHYiyGzf_y-IC6bORc3BOc8RW6rfOh34TfPuWF5MRaUZ4Lu-xscUafo51qKe8jljHuNt4D0JjpJxX_aKzyz82y0_6f0HLRkIMkSYfoq7dsgI4wEpPBhiNguzWi1gZ_jlyq814QGyZfbf6z3MveOMW3m1mVodBosLgSVoJWfkxwqGGzfynxj8fWy_uS3_X_sy-FipcTpS2xxAJtEmYJuUFHici6H-aH1NhDoJ_U10BSHalDEcTEHYCenpdordZ9zXxiJp8eugjEI_boMFCMVIn5QMJ0hd9n9cHagE6059erRVE87=w950-h713-no){: .image .fit}](/galerie/park-pratelstvi)
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/zR8d4iCZMtK9hQ7VkOoWtDIBgZMSsf3_tumcID2DimoEhxnqDhDiVOZGpJ1mV2sTsPHSUE2LIAV8m4GCZblgf3DFiw1g1868u68NfkMKE_-AR5BcSx9gOQemwZd9c3Q9fAUWZRPHqDzOkVhAMUv1osW7xW1seSd5rOM9PjvaVJfvvoLw-sVnGXLdVcbHV7ZTWk7PcvmU95Z75J-VDP3D0NPLfwDJecuXxY51lnUbajzN2cwSgd8Kr7v32-7IHaD3L0lyijWcwlodkBYkg8-O_rCWFfnyUBS65zt1Xw9fJcnkPQaI2tZWQLqFF3a6fmrYPgpC_KZ-hTWy3C6gmBXbf6prMXXWT3fAVlGiBG8HJSF8z7P89AAvxiaDvsjl_630Dfyl18oQaeBsXdhHV3bX6omq1GRf6HjkQe9F5rG7HVyJfHziF88Tuog5-d7R9Fy9RGoxNLPxIWj9ubZguJwBrecMjsgFd9oiq6EAzXoQoQtgn_AaExpAFEPGafvxLLBAjsVwBd_Z0QFT9B6hLuqlGwpaJNB3XBaBLjS13BOd1J2GEhc-jkLLc4z8jtnmbeu_962k=w950-h713-no" />

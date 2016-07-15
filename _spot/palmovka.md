@@ -31,8 +31,6 @@ Na Libeňském ostrově je [hlídané parkoviště](http://parkovistepraha7.cz/#
 | Balance        | ★★★☆☆     |
 | Laché          | ☆☆☆☆☆     |
 
-## [Galerie →](/galerie/palmovka)
-
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/zR8d4iCZMtK9hQ7VkOoWtDIBgZMSsf3_tumcID2DimoEhxnqDhDiVOZGpJ1mV2sTsPHSUE2LIAV8m4GCZblgf3DFiw1g1868u68NfkMKE_-AR5BcSx9gOQemwZd9c3Q9fAUWZRPHqDzOkVhAMUv1osW7xW1seSd5rOM9PjvaVJfvvoLw-sVnGXLdVcbHV7ZTWk7PcvmU95Z75J-VDP3D0NPLfwDJecuXxY51lnUbajzN2cwSgd8Kr7v32-7IHaD3L0lyijWcwlodkBYkg8-O_rCWFfnyUBS65zt1Xw9fJcnkPQaI2tZWQLqFF3a6fmrYPgpC_KZ-hTWy3C6gmBXbf6prMXXWT3fAVlGiBG8HJSF8z7P89AAvxiaDvsjl_630Dfyl18oQaeBsXdhHV3bX6omq1GRf6HjkQe9F5rG7HVyJfHziF88Tuog5-d7R9Fy9RGoxNLPxIWj9ubZguJwBrecMjsgFd9oiq6EAzXoQoQtgn_AaExpAFEPGafvxLLBAjsVwBd_Z0QFT9B6hLuqlGwpaJNB3XBaBLjS13BOd1J2GEhc-jkLLc4z8jtnmbeu_962k=w950-h713-no){: .image .fit}](/galerie/palmovka)
+[![Přejít na fotogalerii](http://www.rajce.net/f1040658145/700px)](http://www.rajce.net/f1040658145){:.image .fit}
 
 <link rel="image_src" href="" />

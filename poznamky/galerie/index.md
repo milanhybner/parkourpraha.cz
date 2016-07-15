@@ -1,1 +1,0 @@
-Title: Galerie parkourpraha.cz

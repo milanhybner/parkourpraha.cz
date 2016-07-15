@@ -29,8 +29,6 @@ Hned jak vyjdete ze stanice metra Vltavská, vydejte se kolem bezdomovců nahoru
 | Balance        | ★★★☆☆     |
 | Laché          | ★☆☆☆☆     |
 
-## [Galerie →](/galerie/vltavska)
-
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/VJHY0bGoynAnnPLviITnGdLIxMl-4mMnD9c80ndGKEy0CROymai9jUnbLgDl5pj2DjDwXem_VBK-XVDiYCxDimUBqSRbhQb2rAbrzOuyWLc8MJaqDhlHTcld1LVyRqDzj5GiUT1B4f0crF-8NXouteGUSGOIgLO69Au5pGZWLCyDxj7TqczHT404qas-ERldgiTEeRStUuVR8TX4skhq9TCttxNxfN5FwyzhXpHAHmxigHFd7Y2Pl9dZ9Bj95FKGiNOTp84ZIrmWa7nBZg69xEMb5ECX20p6LqaGk1iuOtngVK6ye_iDhZqhYVKohKT4zRCkmdSF9zj6B0A8a1BrDjwGuLqf-Bj1xvoI799JgWv6XiD9JcFOZ9uKzxKfLkJwZlSmiE-fXoYORpX_UF7KiSrYtVNimyWmC6TirqPmvvUBUWhBuAlnoruaqlR_hK5FfW9u31DsNYxO7uwxDNf6gQqciZBeYkZ55Mf8n2o9Dn0j01pTKgTTOFDkJVXRuAVlE1fnC_qrKnvi7044CAemYrNcaqjdF2_lThLR2HGIHawlkIGFXsVxcey_mxK8MiJpIIMk=w950-h713-no){: .image .fit}](/galerie/vltavska)
+[![Přejít na fotogalerii](http://www.rajce.net/f1040658291/700px)](http://www.rajce.net/f1040658291){:.image .fit}
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/VJHY0bGoynAnnPLviITnGdLIxMl-4mMnD9c80ndGKEy0CROymai9jUnbLgDl5pj2DjDwXem_VBK-XVDiYCxDimUBqSRbhQb2rAbrzOuyWLc8MJaqDhlHTcld1LVyRqDzj5GiUT1B4f0crF-8NXouteGUSGOIgLO69Au5pGZWLCyDxj7TqczHT404qas-ERldgiTEeRStUuVR8TX4skhq9TCttxNxfN5FwyzhXpHAHmxigHFd7Y2Pl9dZ9Bj95FKGiNOTp84ZIrmWa7nBZg69xEMb5ECX20p6LqaGk1iuOtngVK6ye_iDhZqhYVKohKT4zRCkmdSF9zj6B0A8a1BrDjwGuLqf-Bj1xvoI799JgWv6XiD9JcFOZ9uKzxKfLkJwZlSmiE-fXoYORpX_UF7KiSrYtVNimyWmC6TirqPmvvUBUWhBuAlnoruaqlR_hK5FfW9u31DsNYxO7uwxDNf6gQqciZBeYkZ55Mf8n2o9Dn0j01pTKgTTOFDkJVXRuAVlE1fnC_qrKnvi7044CAemYrNcaqjdF2_lThLR2HGIHawlkIGFXsVxcey_mxK8MiJpIIMk=w950-h713-no" />

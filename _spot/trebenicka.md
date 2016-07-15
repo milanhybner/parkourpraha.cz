@@ -30,9 +30,7 @@ Vystup na stanici tramvaje nebo autobusu _Třebenická_. Z metra _Ládví_ je to
 | Balance | ★★★☆☆     |
 | Laché   | ☆☆☆☆☆     |
 
-## [Galerie →](/galerie/trebenicka)
-
-[![Přejít na fotogalerii](https://lh3.googleusercontent.com/NtdT2prYxrK2bPMys-YxrtIGWPRFjE990xakUJ4zcguZ5xKMNOgfxUXlGUdyIiNWlVbDGf5mXRz_jAsKp1tNmBrhJa0PdlggafYxTaO9IOUh0XY_tP2aqvtdQp57m4P2LK_37iTCcovBjr7jbScOZ9i3o_rsCu7g3mXyhbDNdKcja62Qtm3UV62RNpDcecgHln2C20ECTw0uj7AX5nZvQsg7_ifsoK3WCNgloi8aY-JWRxrI6Yk50e-AJFRmD4iMSgm2X_gQuDLp1U-TIvUPi1o9BO2Rs0QdLNbI4F0XHBQAVwaL3Dy-cMUESEqZko0c2UBKG63_pQEhGpRE_bS-uIN31xQ73L6dlRVn6vBblY7kdGqKSrSDdNyBSo2TcfzeDiahKDX7uZvgOxbk4SR2yoHFwx2foVDRVdNXZk4ph5zRpjKRdxEZqYHBCLQ8QKYii4-56uEhlbFzi5_1YbrySkCkyuSSdfaLByx_SXiAaOgOp2Fo7pOZgj1QTB0x2fsBSBN8qt3LlJqFUb-tEloQvJ7lTqXC8JAE830bDPhHvkF4qDWTmPgxZIKYZ1TyG4JQCfz2=w1263-h947-no){: .image .fit}](/galerie/trebenicka)
+[![Přejít na fotogalerii](http://www.rajce.net/f1040658235/700px)](http://www.rajce.net/f1040658235){:.image .fit}
 
 
 <link rel="image_src" href="https://lh3.googleusercontent.com/NtdT2prYxrK2bPMys-YxrtIGWPRFjE990xakUJ4zcguZ5xKMNOgfxUXlGUdyIiNWlVbDGf5mXRz_jAsKp1tNmBrhJa0PdlggafYxTaO9IOUh0XY_tP2aqvtdQp57m4P2LK_37iTCcovBjr7jbScOZ9i3o_rsCu7g3mXyhbDNdKcja62Qtm3UV62RNpDcecgHln2C20ECTw0uj7AX5nZvQsg7_ifsoK3WCNgloi8aY-JWRxrI6Yk50e-AJFRmD4iMSgm2X_gQuDLp1U-TIvUPi1o9BO2Rs0QdLNbI4F0XHBQAVwaL3Dy-cMUESEqZko0c2UBKG63_pQEhGpRE_bS-uIN31xQ73L6dlRVn6vBblY7kdGqKSrSDdNyBSo2TcfzeDiahKDX7uZvgOxbk4SR2yoHFwx2foVDRVdNXZk4ph5zRpjKRdxEZqYHBCLQ8QKYii4-56uEhlbFzi5_1YbrySkCkyuSSdfaLByx_SXiAaOgOp2Fo7pOZgj1QTB0x2fsBSBN8qt3LlJqFUb-tEloQvJ7lTqXC8JAE830bDPhHvkF4qDWTmPgxZIKYZ1TyG4JQCfz2=w1263-h947-no" />

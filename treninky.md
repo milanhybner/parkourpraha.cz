@@ -16,16 +16,10 @@ permalink: /treninky/
 
 Tréninky vede [Milan Hybner](/milan-hybner/) a jsou zdarma.
 
-Kdy a kde budou tréninky (_aktualizováno 9. května 2016_):
+Kdy a kde budou tréninky:
 
-* V pondělí 16. května od 18:00 u [Muzea Policie (I. P. Pavlova)](/muzeum-policie/)
-* Ve čtvrtek 19. května od 18:00 [na Velké Ohradě](/velka-ohrada/)
-* V pondělí 23. května od 18:00 u [Muzea Policie (I. P. Pavlova)](/muzeum-policie/)
-* Ve čtvrtek 26. května od 18:00 na [Palmovce](/palmovka/)
-* V pondělí 30. května od 18:00 u [Muzea Policie (I. P. Pavlova)](/muzeum-policie/)
 * Ve čtvrtek 2. června od 18:00 na [Dejvické](/dejvicka/)
-* V pondělí 6. června na [Třebenické](/trebenicka/)
-* Ve čtvrtek 9. června od 18:00, místo bude upřesněno
+* V pondělí 6. června od 18:00 na [Třebenické](/trebenicka/)
 
 <a href="#prihlaska" class="button special">Přihlas se zde</a>
 
@@ -79,14 +73,8 @@ Co s sebou: pohodlnou obuv, která dobře drží na noze (např. běžeckou), ob
   <div class="3u 12u$(medium)">
     <div class="select-wrapper">
       <select id="date">
-        <option value="2016-05-16">Pondělí 16. května 18:00 Muzeum Policie</option>
-        <option value="2016-05-19">Čtvrtek 19. května 18:00 Velká Ohrada</option>
-        <option value="2016-05-23">Pondělí 23. května 18:00 Muzeum Policie</option>
-        <option value="2016-05-26">Čtvrtek 26. května 18:00 Palmovka</option>
-        <option value="2016-05-30">Pondělí 30. května 18:00 Muzeum Policie</option>
         <option value="2016-06-02">Čtvrtek 2. června 18:00 Dejvická</option>
         <option value="2016-06-06">Pondělí 6. června 18:00 Třebenická</option>
-        <option value="2016-06-09">Čtvrtek 9. června 18:00</option>
       </select>
     </div>
   </div>
