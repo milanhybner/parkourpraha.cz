@@ -20,10 +20,10 @@ Parkour Praha je neregistrovaná skupina příznivců sportů označovaných jak
 <form id="f">
 <div class="row uniform 50%">
   <div class="6u 12u$(medium)">
-    <input type="text" id="name" placeholder="Jméno a příjmení"></input>
+    <input type="text" id="name" placeholder="Jméno a příjmení" />
   </div>
   <div class="6u 12u$(medium)">
-    <input type="text" id="contact" placeholder="E-mail nebo telefon"></input>
+    <input type="text" id="contact" placeholder="E-mail nebo telefon" />
   </div>
   <div class="12u 12u$(medium)">
      <textarea id="message" placeholder="Zpráva" rows="2"></textarea>
