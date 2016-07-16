@@ -14,14 +14,9 @@ permalink: /treninky/
 
 ## Pravidelné tréninky
 
-Tréninky vede [Milan Hybner](/milan-hybner/) a jsou zdarma.
+Pravidelné tréninky momentálně neprobíhají.
 
-Kdy a kde budou tréninky:
-
-* Ve čtvrtek 2. června od 18:00 na [Dejvické](/dejvicka/)
-* V pondělí 6. června od 18:00 na [Třebenické](/trebenicka/)
-
-<a href="#prihlaska" class="button special">Přihlas se zde</a>
+<!-- <a href="#prihlaska" class="button special">Přihlas se zde</a> -->
 
 ### Pro koho jsou tréninky určené
 
@@ -65,16 +60,14 @@ Co s sebou: pohodlnou obuv, která dobře drží na noze (např. běžeckou), ob
 <form id="f">
 <div class="row uniform 50%">
   <div class="3u 12u$(medium)">
-    <input type="text" id="name" placeholder="Jméno a příjmení"></input>
+    <input type="text" id="name" placeholder="Jméno a příjmení" />
   </div>
   <div class="3u 12u$(medium)">
-    <input type="text" id="contact" placeholder="E-mail nebo telefon"></input>
+    <input type="text" id="contact" placeholder="E-mail nebo telefon" />
   </div>
   <div class="3u 12u$(medium)">
     <div class="select-wrapper">
       <select id="date">
-        <option value="2016-06-02">Čtvrtek 2. června 18:00 Dejvická</option>
-        <option value="2016-06-06">Pondělí 6. června 18:00 Třebenická</option>
       </select>
     </div>
   </div>
